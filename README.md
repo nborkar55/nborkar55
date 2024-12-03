@@ -4,8 +4,7 @@
 
 ## Welcome to my hub
  
-- 👨‍💻 **#SelfTaught** Developer.
-- 📱 currently working as _Android Engineer @ [Lenskart](https://lenskart.com)_.
+- 📱 currently working as Sr. Android Engineer @ [Lenskart](https://lenskart.com)_.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
 - Loves ✈️ and 👨‍💻.
 - Proud 🇮🇳.
@@ -18,7 +17,7 @@ I'm an open-source development enthusiast.
 
 ## GitHub Analytics
 
-![Adarsh's stats](https://github-readme-stats.vercel.app/api?username=nborkar55&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Nikhil's stats](https://github-readme-stats.vercel.app/api?username=nborkar55&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
  
 ---
 
